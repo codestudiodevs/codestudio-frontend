@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[57],{915:function(t,n,e){"use strict";e.r(n);var r={props:["data"]},o=e(61),component=Object(o.a)(r,(function(){var t=this,n=t._self._c;return t.data.length?t._e():n("div",{staticClass:"error--text text-center mt-15"},[t._v("\n  No record found\n")])}),[],!1,null,null,null);n.default=component.exports}}]);
