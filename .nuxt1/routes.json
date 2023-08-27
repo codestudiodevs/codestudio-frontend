@@ -1,0 +1,800 @@
+[
+  {
+    "name": "announcement",
+    "path": "/announcement",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\announcement.vue",
+    "chunkName": "pages/announcement",
+    "_name": "_adf8651a"
+  },
+  {
+    "name": "announcement-new",
+    "path": "/announcement-new",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\announcement-new.vue",
+    "chunkName": "pages/announcement-new",
+    "_name": "_d544b674"
+  },
+  {
+    "name": "assign_permission",
+    "path": "/assign_permission",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\assign_permission\\\\index.vue",
+    "chunkName": "pages/assign_permission/index",
+    "_name": "_3cd70d02"
+  },
+  {
+    "name": "attendance_modules",
+    "path": "/attendance_modules",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\attendance_modules.vue",
+    "chunkName": "pages/attendance_modules",
+    "_name": "_9c3cd746"
+  },
+  {
+    "name": "attendance_report",
+    "path": "/attendance_report",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\attendance_report\\\\index.vue",
+    "chunkName": "pages/attendance_report/index",
+    "_name": "_97418f18"
+  },
+  {
+    "name": "camera",
+    "path": "/camera",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\camera.vue",
+    "chunkName": "pages/camera",
+    "_name": "_2746f95e"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_52c3bad0"
+  },
+  {
+    "name": "dashboard1",
+    "path": "/dashboard1",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\dashboard1.vue",
+    "chunkName": "pages/dashboard1",
+    "_name": "_05a07b6e"
+  },
+  {
+    "name": "dashboard2",
+    "path": "/dashboard2",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\dashboard2.vue",
+    "chunkName": "pages/dashboard2",
+    "_name": "_05844c6c"
+  },
+  {
+    "name": "date_range_picker_test",
+    "path": "/date_range_picker_test",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\date_range_picker_test.vue",
+    "chunkName": "pages/date_range_picker_test",
+    "_name": "_43b155fc"
+  },
+  {
+    "name": "department",
+    "path": "/department",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\department.vue",
+    "chunkName": "pages/department",
+    "_name": "_091e0a04"
+  },
+  {
+    "name": "department-mapping",
+    "path": "/department-mapping",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\department-mapping.vue",
+    "chunkName": "pages/department-mapping",
+    "_name": "_679e487f"
+  },
+  {
+    "name": "designation",
+    "path": "/designation",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\designation.vue",
+    "chunkName": "pages/designation",
+    "_name": "_7192837b"
+  },
+  {
+    "name": "device",
+    "path": "/device",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\device\\\\index.vue",
+    "chunkName": "pages/device/index",
+    "_name": "_7ae41040"
+  },
+  {
+    "name": "device_management",
+    "path": "/device_management",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\device_management\\\\index.vue",
+    "chunkName": "pages/device_management/index",
+    "_name": "_7f4afcb2"
+  },
+  {
+    "name": "devicelogs",
+    "path": "/devicelogs",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\devicelogs.vue",
+    "chunkName": "pages/devicelogs",
+    "_name": "_6d8d6f31"
+  },
+  {
+    "name": "employee_photo_upload",
+    "path": "/employee_photo_upload",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employee_photo_upload.vue",
+    "chunkName": "pages/employee_photo_upload",
+    "_name": "_3a7f9723"
+  },
+  {
+    "name": "employee_schedule",
+    "path": "/employee_schedule",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employee_schedule\\\\index.vue",
+    "chunkName": "pages/employee_schedule/index",
+    "_name": "_64004814"
+  },
+  {
+    "name": "employee_to_report",
+    "path": "/employee_to_report",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employee_to_report.vue",
+    "chunkName": "pages/employee_to_report",
+    "_name": "_1c766453"
+  },
+  {
+    "name": "employees",
+    "path": "/employees",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\index.vue",
+    "chunkName": "pages/employees/index",
+    "_name": "_095fc159"
+  },
+  {
+    "name": "generate_attendance_log",
+    "path": "/generate_attendance_log",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\generate_attendance_log.vue",
+    "chunkName": "pages/generate_attendance_log",
+    "_name": "_5df931fc"
+  },
+  {
+    "name": "holidays",
+    "path": "/holidays",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\holidays.vue",
+    "chunkName": "pages/holidays",
+    "_name": "_7f27f972"
+  },
+  {
+    "name": "host",
+    "path": "/host",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\host.vue",
+    "chunkName": "pages/host",
+    "_name": "_fc989d58"
+  },
+  {
+    "name": "hr_modules",
+    "path": "/hr_modules",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\hr_modules.vue",
+    "chunkName": "pages/hr_modules",
+    "_name": "_cf782e04"
+  },
+  {
+    "name": "leavegroups",
+    "path": "/leavegroups",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\leavegroups.vue",
+    "chunkName": "pages/leavegroups",
+    "_name": "_555cdccf"
+  },
+  {
+    "name": "leaves",
+    "path": "/leaves",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\leaves.vue",
+    "chunkName": "pages/leaves",
+    "_name": "_638db548"
+  },
+  {
+    "name": "leavetype",
+    "path": "/leavetype",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\leavetype.vue",
+    "chunkName": "pages/leavetype",
+    "_name": "_03d9abf5"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_7ba94aed"
+  },
+  {
+    "name": "login-bkp",
+    "path": "/login-bkp",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\login-bkp.vue",
+    "chunkName": "pages/login-bkp",
+    "_name": "_04c37d67"
+  },
+  {
+    "name": "login1",
+    "path": "/login1",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\login1.vue",
+    "chunkName": "pages/login1",
+    "_name": "_0cecb6d8"
+  },
+  {
+    "name": "manager_dashboard",
+    "path": "/manager_dashboard",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\manager_dashboard.vue",
+    "chunkName": "pages/manager_dashboard",
+    "_name": "_001534f4"
+  },
+  {
+    "name": "master",
+    "path": "/master",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\index.vue",
+    "chunkName": "pages/master/index",
+    "_name": "_9ad37698"
+  },
+  {
+    "name": "modules",
+    "path": "/modules",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\modules.vue",
+    "chunkName": "pages/modules",
+    "_name": "_3e28cdea"
+  },
+  {
+    "name": "payroll_modules",
+    "path": "/payroll_modules",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payroll_modules.vue",
+    "chunkName": "pages/payroll_modules",
+    "_name": "_61704e1e"
+  },
+  {
+    "name": "payslip",
+    "path": "/payslip",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payslip.vue",
+    "chunkName": "pages/payslip",
+    "_name": "_b7cd4228"
+  },
+  {
+    "name": "purpose",
+    "path": "/purpose",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\purpose.vue",
+    "chunkName": "pages/purpose",
+    "_name": "_237bcb22"
+  },
+  {
+    "name": "qr-page",
+    "path": "/qr-page",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\qr-page.vue",
+    "chunkName": "pages/qr-page",
+    "_name": "_27fe4b82"
+  },
+  {
+    "name": "report_notifications",
+    "path": "/report_notifications",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\report_notifications\\\\index.vue",
+    "chunkName": "pages/report_notifications/index",
+    "_name": "_27fa03ce"
+  },
+  {
+    "name": "reportsemployeelog",
+    "path": "/reportsemployeelog",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\reportsemployeelog.vue",
+    "chunkName": "pages/reportsemployeelog",
+    "_name": "_6feeafe3"
+  },
+  {
+    "name": "reset-password",
+    "path": "/reset-password",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\reset-password.vue",
+    "chunkName": "pages/reset-password",
+    "_name": "_1a62db85"
+  },
+  {
+    "name": "role",
+    "path": "/role",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\role.vue",
+    "chunkName": "pages/role",
+    "_name": "_f88bb5bc"
+  },
+  {
+    "name": "salary",
+    "path": "/salary",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\salary\\\\index.vue",
+    "chunkName": "pages/salary/index",
+    "_name": "_9ec31768"
+  },
+  {
+    "name": "salary_type",
+    "path": "/salary_type",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\salary_type.vue",
+    "chunkName": "pages/salary_type",
+    "_name": "_76e0a413"
+  },
+  {
+    "name": "schedule",
+    "path": "/schedule",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\schedule\\\\index.vue",
+    "chunkName": "pages/schedule/index",
+    "_name": "_d23b2342"
+  },
+  {
+    "name": "shift",
+    "path": "/shift",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\shift\\\\index.vue",
+    "chunkName": "pages/shift/index",
+    "_name": "_355c4388"
+  },
+  {
+    "name": "sub-department",
+    "path": "/sub-department",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\sub-department.vue",
+    "chunkName": "pages/sub-department",
+    "_name": "_60210faa"
+  },
+  {
+    "name": "tab",
+    "path": "/tab",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\tab.vue",
+    "chunkName": "pages/tab",
+    "_name": "_55839019"
+  },
+  {
+    "name": "timeline",
+    "path": "/timeline",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timeline.vue",
+    "chunkName": "pages/timeline",
+    "_name": "_154bf16d"
+  },
+  {
+    "name": "timezone",
+    "path": "/timezone",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezone.vue",
+    "chunkName": "pages/timezone",
+    "_name": "_0101c925"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index",
+    "_name": "_f793baaa"
+  },
+  {
+    "name": "visitor",
+    "path": "/visitor",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\visitor.vue",
+    "chunkName": "pages/visitor",
+    "_name": "_26344b1c"
+  },
+  {
+    "name": "visitor_logs",
+    "path": "/visitor_logs",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\visitor_logs.vue",
+    "chunkName": "pages/visitor_logs",
+    "_name": "_3bf7ea8c"
+  },
+  {
+    "name": "visitor-dashboard",
+    "path": "/visitor-dashboard",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\visitor-dashboard.vue",
+    "chunkName": "pages/visitor-dashboard",
+    "_name": "_bb6d790e"
+  },
+  {
+    "name": "visitors_report",
+    "path": "/visitors_report",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\visitors_report\\\\index.vue",
+    "chunkName": "pages/visitors_report/index",
+    "_name": "_ced43560"
+  },
+  {
+    "name": "wizard",
+    "path": "/wizard",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\wizard.vue",
+    "chunkName": "pages/wizard",
+    "_name": "_173d7297"
+  },
+  {
+    "name": "zone",
+    "path": "/zone",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\zone\\\\index.vue",
+    "chunkName": "pages/zone/index",
+    "_name": "_86c437ac"
+  },
+  {
+    "name": "assign_permission-create",
+    "path": "/assign_permission/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\assign_permission\\\\create.vue",
+    "chunkName": "pages/assign_permission/create",
+    "_name": "_78af011f"
+  },
+  {
+    "name": "attendance_report-general",
+    "path": "/attendance_report/general",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\attendance_report\\\\general.vue",
+    "chunkName": "pages/attendance_report/general",
+    "_name": "_3cb5c30a"
+  },
+  {
+    "name": "attendance_report-multi_inout",
+    "path": "/attendance_report/multi_inout",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\attendance_report\\\\multi_inout.vue",
+    "chunkName": "pages/attendance_report/multi_inout",
+    "_name": "_0b8c1d25"
+  },
+  {
+    "name": "device_management-create",
+    "path": "/device_management/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\device_management\\\\create.vue",
+    "chunkName": "pages/device_management/create",
+    "_name": "_dc6e3768"
+  },
+  {
+    "name": "employee_schedule-create",
+    "path": "/employee_schedule/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employee_schedule\\\\create.vue",
+    "chunkName": "pages/employee_schedule/create",
+    "_name": "_19afed88"
+  },
+  {
+    "name": "employees-announcements",
+    "path": "/employees/announcements",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\announcements\\\\index.vue",
+    "chunkName": "pages/employees/announcements/index",
+    "_name": "_97c29ee2"
+  },
+  {
+    "name": "employees-dashboard",
+    "path": "/employees/dashboard",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/employees/dashboard/index",
+    "_name": "_02e704f2"
+  },
+  {
+    "name": "employees-holidays",
+    "path": "/employees/holidays",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\holidays.vue",
+    "chunkName": "pages/employees/holidays",
+    "_name": "_60325238"
+  },
+  {
+    "name": "employees-index1",
+    "path": "/employees/index1",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\index1.vue",
+    "chunkName": "pages/employees/index1",
+    "_name": "_22a1fba8"
+  },
+  {
+    "name": "employees-leave",
+    "path": "/employees/leave",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\leave\\\\index.vue",
+    "chunkName": "pages/employees/leave/index",
+    "_name": "_7b19b604"
+  },
+  {
+    "name": "employees-leave_notification",
+    "path": "/employees/leave_notification",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\leave_notification\\\\index.vue",
+    "chunkName": "pages/employees/leave_notification/index",
+    "_name": "_25a705f4"
+  },
+  {
+    "name": "employees-logs",
+    "path": "/employees/logs",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\logs.vue",
+    "chunkName": "pages/employees/logs",
+    "_name": "_33916010"
+  },
+  {
+    "name": "employees-profile",
+    "path": "/employees/profile",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\profile\\\\index.vue",
+    "chunkName": "pages/employees/profile/index",
+    "_name": "_822c70dc"
+  },
+  {
+    "name": "employees-schedule",
+    "path": "/employees/schedule",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\schedule.vue",
+    "chunkName": "pages/employees/schedule",
+    "_name": "_12a16860"
+  },
+  {
+    "name": "master-assign_module",
+    "path": "/master/assign_module",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\assign_module\\\\index.vue",
+    "chunkName": "pages/master/assign_module/index",
+    "_name": "_5b7c5bb8"
+  },
+  {
+    "name": "master-companies",
+    "path": "/master/companies",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\companies\\\\index.vue",
+    "chunkName": "pages/master/companies/index",
+    "_name": "_b19d2cb6"
+  },
+  {
+    "name": "master-device",
+    "path": "/master/device",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\device\\\\index.vue",
+    "chunkName": "pages/master/device/index",
+    "_name": "_231621c4"
+  },
+  {
+    "name": "master-module",
+    "path": "/master/module",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\module.vue",
+    "chunkName": "pages/master/module",
+    "_name": "_426c69fa"
+  },
+  {
+    "name": "payroll-create",
+    "path": "/payroll/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payroll\\\\create.vue",
+    "chunkName": "pages/payroll/create",
+    "_name": "_5ba845b6"
+  },
+  {
+    "name": "payroll-month",
+    "path": "/payroll/month",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payroll\\\\month.vue",
+    "chunkName": "pages/payroll/month",
+    "_name": "_e55d1132"
+  },
+  {
+    "name": "payroll-salary",
+    "path": "/payroll/salary",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payroll\\\\salary\\\\index.vue",
+    "chunkName": "pages/payroll/salary/index",
+    "_name": "_22d83e2f"
+  },
+  {
+    "name": "report_notifications-create",
+    "path": "/report_notifications/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\report_notifications\\\\create.vue",
+    "chunkName": "pages/report_notifications/create",
+    "_name": "_87dde076"
+  },
+  {
+    "name": "shift-create",
+    "path": "/shift/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\shift\\\\create.vue",
+    "chunkName": "pages/shift/create",
+    "_name": "_26c397fc"
+  },
+  {
+    "name": "timezonemapping-edit",
+    "path": "/timezonemapping/edit",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezonemapping\\\\edit.vue",
+    "chunkName": "pages/timezonemapping/edit",
+    "_name": "_0ce185fa"
+  },
+  {
+    "name": "timezonemapping-employeedevicesmapping",
+    "path": "/timezonemapping/employeedevicesmapping",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezonemapping\\\\employeedevicesmapping.vue",
+    "chunkName": "pages/timezonemapping/employeedevicesmapping",
+    "_name": "_72f91db8"
+  },
+  {
+    "name": "timezonemapping-list",
+    "path": "/timezonemapping/list",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezonemapping\\\\list.vue",
+    "chunkName": "pages/timezonemapping/list",
+    "_name": "_2b71d4d2"
+  },
+  {
+    "name": "timezonemapping-new",
+    "path": "/timezonemapping/new",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezonemapping\\\\new.vue",
+    "chunkName": "pages/timezonemapping/new",
+    "_name": "_51db2ab7"
+  },
+  {
+    "name": "user-create",
+    "path": "/user/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\user\\\\create.vue",
+    "chunkName": "pages/user/create",
+    "_name": "_2a427d73"
+  },
+  {
+    "name": "zone-create",
+    "path": "/zone/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\zone\\\\create.vue",
+    "chunkName": "pages/zone/create",
+    "_name": "_025a2858"
+  },
+  {
+    "name": "employees-attendance_report-general",
+    "path": "/employees/attendance_report/general",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\attendance_report\\\\general.vue",
+    "chunkName": "pages/employees/attendance_report/general",
+    "_name": "_9c806d32"
+  },
+  {
+    "name": "employees-attendance_report-multi_inout",
+    "path": "/employees/attendance_report/multi_inout",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\attendance_report\\\\multi_inout.vue",
+    "chunkName": "pages/employees/attendance_report/multi_inout",
+    "_name": "_4541ad02"
+  },
+  {
+    "name": "employees-payroll-create",
+    "path": "/employees/payroll/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\payroll\\\\create.vue",
+    "chunkName": "pages/employees/payroll/create",
+    "_name": "_daf3a230"
+  },
+  {
+    "name": "employees-payroll-month",
+    "path": "/employees/payroll/month",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\payroll\\\\month.vue",
+    "chunkName": "pages/employees/payroll/month",
+    "_name": "_65573d78"
+  },
+  {
+    "name": "employees-payroll-salary",
+    "path": "/employees/payroll/salary",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\payroll\\\\salary\\\\index.vue",
+    "chunkName": "pages/employees/payroll/salary/index",
+    "_name": "_ee1409e8"
+  },
+  {
+    "name": "master-assign_module-create",
+    "path": "/master/assign_module/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\assign_module\\\\create.vue",
+    "chunkName": "pages/master/assign_module/create",
+    "_name": "_c4a685cc"
+  },
+  {
+    "name": "master-companies-create",
+    "path": "/master/companies/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\companies\\\\create.vue",
+    "chunkName": "pages/master/companies/create",
+    "_name": "_66b015b9"
+  },
+  {
+    "name": "master-device-create",
+    "path": "/master/device/create",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\device\\\\create\\\\index.vue",
+    "chunkName": "pages/master/device/create/index",
+    "_name": "_36510922"
+  },
+  {
+    "name": "employees-payroll-salary-id",
+    "path": "/employees/payroll/salary/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\employees\\\\payroll\\\\salary\\\\_id.vue",
+    "chunkName": "pages/employees/payroll/salary/_id",
+    "_name": "_78c15f18"
+  },
+  {
+    "name": "master-companies-details-id",
+    "path": "/master/companies/details/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\companies\\\\details\\\\_id.vue",
+    "chunkName": "pages/master/companies/details/_id",
+    "_name": "_2a326435"
+  },
+  {
+    "name": "master-device-create-id",
+    "path": "/master/device/create/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\device\\\\create\\\\_id.vue",
+    "chunkName": "pages/master/device/create/_id",
+    "_name": "_1772ec0a"
+  },
+  {
+    "name": "companies-details-id",
+    "path": "/companies/details/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\companies\\\\details\\\\_id.vue",
+    "chunkName": "pages/companies/details/_id",
+    "_name": "_794c02d7"
+  },
+  {
+    "name": "master-assign_module-id",
+    "path": "/master/assign_module/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\assign_module\\\\_id.vue",
+    "chunkName": "pages/master/assign_module/_id",
+    "_name": "_18b3e4e8"
+  },
+  {
+    "name": "master-companies-id",
+    "path": "/master/companies/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\companies\\\\_id.vue",
+    "chunkName": "pages/master/companies/_id",
+    "_name": "_da30dd66"
+  },
+  {
+    "name": "master-device-id",
+    "path": "/master/device/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\master\\\\device\\\\_id.vue",
+    "chunkName": "pages/master/device/_id",
+    "_name": "_02102106"
+  },
+  {
+    "name": "payroll-salary-id",
+    "path": "/payroll/salary/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\payroll\\\\salary\\\\_id.vue",
+    "chunkName": "pages/payroll/salary/_id",
+    "_name": "_5323ff52"
+  },
+  {
+    "name": "register-visitor-id",
+    "path": "/register/visitor/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\register\\\\visitor\\\\_id.vue",
+    "chunkName": "pages/register/visitor/_id",
+    "_name": "_79631a9b"
+  },
+  {
+    "name": "salary-details-id",
+    "path": "/salary/details/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\salary\\\\details\\\\_id.vue",
+    "chunkName": "pages/salary/details/_id",
+    "_name": "_a86b40a4"
+  },
+  {
+    "name": "zone-single-id",
+    "path": "/zone/single/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\zone\\\\single\\\\_id.vue",
+    "chunkName": "pages/zone/single/_id",
+    "_name": "_0fa4fa4a"
+  },
+  {
+    "name": "assign_permission-id",
+    "path": "/assign_permission/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\assign_permission\\\\_id.vue",
+    "chunkName": "pages/assign_permission/_id",
+    "_name": "_52be60b2"
+  },
+  {
+    "name": "companies-id",
+    "path": "/companies/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\companies\\\\_id.vue",
+    "chunkName": "pages/companies/_id",
+    "_name": "_d746d72a"
+  },
+  {
+    "name": "leavecount-id",
+    "path": "/leavecount/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\leavecount\\\\_id.vue",
+    "chunkName": "pages/leavecount/_id",
+    "_name": "_e79cc6f4"
+  },
+  {
+    "name": "report_notifications-id",
+    "path": "/report_notifications/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\report_notifications\\\\_id.vue",
+    "chunkName": "pages/report_notifications/_id",
+    "_name": "_47889a7e"
+  },
+  {
+    "name": "shift-id",
+    "path": "/shift/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\shift\\\\_id.vue",
+    "chunkName": "pages/shift/_id",
+    "_name": "_ea0b80b8"
+  },
+  {
+    "name": "theme-id",
+    "path": "/theme/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\theme\\\\_id.vue",
+    "chunkName": "pages/theme/_id",
+    "_name": "_1004b63d"
+  },
+  {
+    "name": "timezonemapping-id",
+    "path": "/timezonemapping/:id?",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\timezonemapping\\\\_id.vue",
+    "chunkName": "pages/timezonemapping/_id",
+    "_name": "_3e2555d1"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\user\\\\_id.vue",
+    "chunkName": "pages/user/_id",
+    "_name": "_149a585a"
+  },
+  {
+    "name": "zone-id",
+    "path": "/zone/:id",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\zone\\\\_id.vue",
+    "chunkName": "pages/zone/_id",
+    "_name": "_53cae912"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\codestudio-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9bfcb054"
+  }
+]
